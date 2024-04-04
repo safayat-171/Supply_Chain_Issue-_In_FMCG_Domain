@@ -272,7 +272,17 @@ Here's the breakdown:
 - Each of product has lower line fill rate than expected 
 - OTIF performance has been comprosed drastically
 
-#### 10. 
+#### 10. Week over week LIFR
+
+```sql
+select d.week_no,
+       concat(round(sum(case when fl.in_full = 1 then 1 else 0 end) * 100
+       / count(fl.order_id),2),"%") as LIFR
+from fact_order_lines as fl
+left join dim_date as d
+on d.date = fl.order_placement_date
+group by d.week_n
+```
 
 ## What I have learned 
 Througout the whole project, I turbocharged my SQL querying skills with some serious firepower
