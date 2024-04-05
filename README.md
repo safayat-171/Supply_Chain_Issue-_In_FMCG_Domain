@@ -301,11 +301,15 @@ From the analysis, several general actionable insights have emerged:
 - The average delay in delivery is 1.69 days and on time delivery succedd only 70%. Company need to work on with shipping carrier to reduce the continuous delays over the months.
 
 - LIFR and VOFR Comparison: Volume fill rate has been in a acceptabel margin. But LIFR is inconsisent across the customers which shows company has having stock issue to fulfill orders
+  
+- The OTIF for each city from target is comparatively high which shows business in less likely to expand in near future unless currenly cities are served properly
 
--- 
+- Week over week OTIF low rate indicates the superstore is less viable to serve their customers on their rush time as sales forecast is have accuracy
 
 
+## Final Thoughts
 
+Tha project has made me to write various of sql queries which eventually enhanced my sql skill. Also, analyzing data in supply chain domain with some key important KPI's let me know more about aware about multiple performance criteria indicators. This knowleddge will help me to explore more scm related problem further. Besides, the valuable insights can be used to measure a superstore performance and help to solve a problem where service level needs to be precise. I believe this project will advance my data analytics jouney in terms of exploratory data analysis using sql.
 
 
 
