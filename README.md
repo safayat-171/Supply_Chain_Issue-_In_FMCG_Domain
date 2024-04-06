@@ -52,6 +52,10 @@ group by customers.customer_name
 order by order_count desc;
 
 ```
+#### Result
+
+![image](https://github.com/safayat-171/Supply_Chain_Issue_In_FMCG_Domain/assets/100015367/7bbb7466-e3d1-4980-ad2a-22aca6c99de8)
+
 #### Here's a breakdown of the results for top customers:
 
 - Lotus Mart, Accalaimed Stores, Vijay Stores are the top 3 customers 
