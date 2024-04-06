@@ -34,7 +34,7 @@ For the deep dive into the data analyst of company's performance, I harnessed th
 
 The queries are aimed to evaluate daily business performance of business through multiple key metrics.
 
-Here is how approach to each asked questios:
+Here is how approach to each asked questions:
 
 #### 1. Who are the biggest customers for the company?
 
