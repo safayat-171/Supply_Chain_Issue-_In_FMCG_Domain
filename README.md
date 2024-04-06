@@ -85,14 +85,13 @@ from stats
 where rnk <= 3;
 
 ```
-
 #### Result
 
 ![image](https://github.com/safayat-171/Supply_Chain_Issue_In_FMCG_Domain/assets/100015367/4053010b-2b81-47e4-81d4-af4bb3a661d1)
 
 Here's the breakdown of the customers order shows the OTIF variance from target:
-- 
-
+- Dairy products are the most sold products followed by food category
+- AM Milk 250, AM Tea 500, AM Biscuits 250 are the highest selling in each of respective category
 
 #### 3. What is  OT%, IF%, OTIF% of orders by existing customers
 
@@ -320,7 +319,7 @@ on d.date = fl.order_placement_date
 group by d.week_n
 ```
 #### Result
-![Uploading image.png…]()
+![image](https://github.com/safayat-171/Supply_Chain_Issue_In_FMCG_Domain/assets/100015367/ead08cf9-fde7-4d01-b37e-895f5be0fa80)
 
 
 ## What I have learned 
