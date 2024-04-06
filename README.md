@@ -32,7 +32,7 @@ For the deep dive into the data analyst of company's performance, I harnessed th
 
 ## The Analysis
 
-The queries are aimed to evaluate daily business performance of busiess through multiple key metries.
+The queries are aimed to evaluate daily business performance of business through multiple key metrics.
 
 Here is how approach to each asked questios:
 
